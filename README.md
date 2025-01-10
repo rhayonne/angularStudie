@@ -1,2 +1,2 @@
 # angularStudie
-Studis in angular
+Studies on angular
